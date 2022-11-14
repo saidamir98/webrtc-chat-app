@@ -20,7 +20,7 @@
   "author": "Saidamir Botirov",
   "license": "MIT",
   "devDependencies": {
-    "nodemon": "^2.0.3"
+    "nodemon": "^2.0.20"
   },
   "dependencies": {
     "express": "^4.17.1",
